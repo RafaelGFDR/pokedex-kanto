@@ -1,0 +1,36 @@
+.index {
+    background-image: url("../img/kanto.png");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.index h1 {
+    text-align: center
+}
+
+.index a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 6px;
+    border-radius: 10px;
+}
+
+
+/*los elementos a que estan dentro de un elemento con clase index*/
+
+.index span {
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.index img {
+    width: 25%;
+}
+
+
+/*gengar.html*/
